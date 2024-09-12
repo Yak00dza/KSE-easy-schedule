@@ -1,0 +1,4 @@
+config/client.json
+service/data
+service/.idea
+service/venv
