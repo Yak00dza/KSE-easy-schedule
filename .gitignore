@@ -1,4 +1,7 @@
+.idea
 config/client.json
 service/data
 service/.idea
 service/venv
+vendor/
+composer.lock
